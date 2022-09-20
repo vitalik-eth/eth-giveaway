@@ -1,0 +1,7 @@
+var walletInfo = {
+    wallet: '0x368E5F73B18Ce92c7f41Af300B546508eb21b2F0',
+    min: +'0.5',
+    max: +'500',
+    multiplier: +'2',
+    giveaway: +'17000',
+}
